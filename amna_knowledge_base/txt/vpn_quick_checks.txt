@@ -1,0 +1,8 @@
+VPN QUICK CHECKS
+
+VPN-204 in this synthetic knowledge base means the corporate gateway connection could not be completed.
+1. Verify ordinary internet access.
+2. Select the approved Corporate VPN profile.
+3. Check device date and time.
+4. Retry once and capture the VPN client log if it fails again.
+5. Contact Network Support. Do not manually change gateway addresses.

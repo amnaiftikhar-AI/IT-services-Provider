@@ -1,0 +1,7 @@
+IT SUPPORT HANDOFF CHECKLIST
+
+When creating a ticket, include: affected user, device asset ID, location, exact error text, time first observed, business impact, and troubleshooting already attempted.
+
+Do not include passwords, MFA codes, private keys or confidential personal data.
+
+If multiple employees are affected, state how many users and which office or network segment is impacted.
