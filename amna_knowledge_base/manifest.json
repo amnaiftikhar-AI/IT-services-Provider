@@ -1,0 +1,27 @@
+{
+  "pdf_documents": [
+    "backup_restore.pdf",
+    "browser_troubleshooting.pdf",
+    "endpoint_security.pdf",
+    "error_codes.pdf",
+    "file_sharing.pdf",
+    "it_security_policy.pdf",
+    "laptop_troubleshooting.pdf",
+    "mfa_setup.pdf",
+    "network_troubleshooting.pdf",
+    "password_reset.pdf",
+    "printer_configuration.pdf",
+    "resolved_ticket_examples.pdf",
+    "software_installation.pdf",
+    "vpn_setup_guide.pdf",
+    "windows_updates.pdf"
+  ],
+  "txt_documents": [
+    "account_access.txt",
+    "it_support_contact_rules.txt",
+    "password_reset.txt",
+    "printer_quick_checks.txt",
+    "vpn_quick_checks.txt"
+  ],
+  "total": 20
+}

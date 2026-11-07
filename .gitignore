@@ -1,0 +1,12 @@
+.env
+.env.amna
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+amna_data/uploads/*
+amna_data/faiss_index/*
+!amna_data/uploads/.gitkeep
+!amna_data/faiss_index/.gitkeep
+*.log

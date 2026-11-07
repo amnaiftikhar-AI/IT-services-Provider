@@ -1,0 +1,8 @@
+PRINTER QUICK CHECKS
+
+PRN-001: printer unavailable or not responding.
+- Confirm power and check the printer display for warnings.
+- Check the approved network connection.
+- Clear only the current user's stuck print jobs.
+- Print one test page.
+- If still unavailable, provide printer name, model and office location to Workplace Technology.

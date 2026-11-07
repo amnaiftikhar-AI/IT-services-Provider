@@ -1,0 +1,7 @@
+ACCOUNT ACCESS CHECKLIST
+
+- Confirm the username is the employee's company account.
+- Check whether the account is locked or disabled in the approved identity portal.
+- Record the exact sign-in error and timestamp.
+- Never request a password, recovery code or MFA one-time code.
+- Escalate identity verification and account changes to authorized Identity Support.
