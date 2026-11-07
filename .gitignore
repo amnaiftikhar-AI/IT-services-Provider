@@ -1,12 +1,26 @@
+
+# Environment variables and secrets
 .env
-.env.amna
+.env.*
+!.env.example
+!.env.amna.example
+
+# Python environment and cache
 .venv/
 venv/
 __pycache__/
 *.py[cod]
+*.pyc
 .pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Amna RAG uploaded documents and FAISS indexes
 amna_data/uploads/*
 amna_data/faiss_index/*
 !amna_data/uploads/.gitkeep
 !amna_data/faiss_index/.gitkeep
+
+# Logs
 *.log
