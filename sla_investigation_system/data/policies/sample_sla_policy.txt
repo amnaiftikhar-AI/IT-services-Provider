@@ -1,0 +1,13 @@
+IT SERVICE LEVEL AGREEMENT
+
+Section 1: Critical Incidents
+Critical incidents require an initial response within 15 minutes and a resolution target of 120 minutes.
+
+Section 2: High Incidents
+High priority incidents require an initial response within 30 minutes and a resolution target of 240 minutes.
+
+Section 3: Medium Incidents
+Medium priority incidents require an initial response within 120 minutes and a resolution target of 480 minutes.
+
+Section 4: Low Incidents
+Low priority incidents require an initial response within 240 minutes and a resolution target of 1440 minutes.

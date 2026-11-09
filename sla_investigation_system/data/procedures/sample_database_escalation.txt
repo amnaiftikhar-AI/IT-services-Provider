@@ -1,0 +1,10 @@
+DATABASE ESCALATION PROCEDURE
+
+Section 1: Initial Checks
+Check database service status, database connectivity, disk utilization and recent error logs.
+
+Section 2: Escalation
+For a critical production database outage, notify the database support team lead immediately according to the incident escalation process.
+
+Section 3: Safety
+Do not restart production services or delete data unless the approved operational procedure authorizes the action.

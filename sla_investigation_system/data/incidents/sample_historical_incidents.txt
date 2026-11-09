@@ -1,0 +1,22 @@
+HISTORICAL INCIDENT RECORDS
+
+Incident ID: INC-0842
+Error Code: DB-500
+Category: Database
+Subject: Production database service outage
+Root Cause: Database service stopped after disk space was exhausted.
+Resolution: Check disk utilization, confirm database service status, free approved temporary space, and follow the database restart procedure.
+
+Incident ID: INC-0761
+Error Code: DB-CONN-01
+Category: Database
+Subject: Database connection failure
+Root Cause: Database connection pool was exhausted.
+Resolution: Check connection count, inspect application logs, and follow the documented connection-pool recovery procedure.
+
+Incident ID: INC-0710
+Error Code: AUTH-401
+Category: Application
+Subject: Authentication service failure
+Root Cause: Authentication service configuration expired.
+Resolution: Verify authentication service health and follow the approved credential rotation procedure.
